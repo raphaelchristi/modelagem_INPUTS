@@ -1,0 +1,3 @@
+--usar regex para analisar como esta estruturado o codigo do programa
+
+
