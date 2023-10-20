@@ -1,3 +1,7 @@
+
+
+--tratar os dados primeiro ->> passar tudo que eh input pra dentro de um vetor
+
 --usar regex para analisar como esta estruturado o codigo do programa
 
 
